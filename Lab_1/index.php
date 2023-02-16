@@ -13,7 +13,7 @@
         <p>Прытов Антон Сергеевич 221-321</p>
     </header>
     <?php echo '<p>Hello, World!</p>'; 
-    //     http://localhost/test_1/PHP_Polytech/index.php?>
+    //     http://localhost/test_1/PHP_Polytech/Lab_1/index.php?>
 
 <footer>
     <p>2.1.Домашняя работа: Hello, World!</p>
