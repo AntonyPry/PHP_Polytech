@@ -1,0 +1,30 @@
+img {
+    position: absolute;
+    left: 25px;
+    top: 15px;
+    width: 50px;
+}
+
+header {
+    line-height: 50px;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+    background-color: #fafafa;
+}
+
+textarea {
+    width: 100%;
+    resize: vertical;
+    padding: 15px;
+    border-radius: 15px;
+    border: 0;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.06);
+    height: 150px;
+}
