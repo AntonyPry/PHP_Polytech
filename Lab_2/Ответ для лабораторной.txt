@@ -1,0 +1,2 @@
+Ссылка на страницу: phplab2.std-2124.ist.mospolytech.ru
+Ссылка на репозиторий: https://github.com/AntonyPry/PHP_Polytech

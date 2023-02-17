@@ -15,7 +15,7 @@
         <p>Прытов Антон Сергеевич 221-321</p>
     </header>
 
-    <form action="https://httpbin.org/post" method="post" target="_blank">
+    <form id="form" action="https://httpbin.org/post" method="post" target="_blank">
         <h1>Форма обратной связи</h1>
         <fieldset>
             <ul>
